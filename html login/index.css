@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-form {
+  margin: 10vh auto;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  background-color: aquamarine;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  width: 60vw;
+  gap: 30px;
+}
